@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+
+  <color name="blendlePrimary">#ff6255</color>
+
+
+
+
+
+  <color name="blendle_bold_blakka">#ff333332</color>
+  <color name="blendle_cappuccino">#ff948784</color>
+  <color name="blendle_champaign_yellow">#ffffd338</color>
+  <color name="blendle_champaign_yellow_dark">#ffe5b300</color>
+  <color name="blendle_cocaine_white">#ffffffff</color>
+  <color name="blendle_dentist_blue">#ff43d6e0</color>
+  <color name="blendle_fab_pressed_state_color">#40ffffff</color>
+  <color name="blendle_green">#ff24cf6b</color>
+  <color name="blendle_hot_coral">#ffff6255</color>
+  <color name="blendle_midnight">#ff4a5170</color>
+  <color name="blendle_orange">#ffff6255</color>
+  <color name="blendle_orange_dark">#ffce4f45</color>
+  <color name="blendle_orange_pressed">#ffc24f46</color>
+  <color name="blendle_weed_green">#ff24cf6b</color>
+
+</resources>
